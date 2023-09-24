@@ -1,0 +1,15 @@
+{
+    "user_id_list": ["1914010467"],
+    "filter": 1,
+    "since_date": "2022-01-01",
+    "end_date": "now",
+    "random_wait_pages": [1, 5],
+    "random_wait_seconds": [6, 10],
+    "global_wait": [[1000, 3600], [500, 2000]], 
+    "write_mode": ["csv","txt"],
+    "pic_download": 0,
+    "video_download": 0,
+    "result_dir_name": 0,
+    "cookie": "WEIBOCN_WM=3349; MLOGIN=0; loginScene=102003; SUB=_2A25OZUb0DeRhGeFM71cR8SjPyTyIHXVtpmq8rDV6PUJbkdANLUTtkW1NQNrR0hDYvbkyXXHvhSXTK6gLZwPIvqhj; _T_WM=2f61b9622f544de949daf22f40ebcc99",
+    "sqlite_config": "weibo.db"
+}
